@@ -1,4 +1,5 @@
-# Imageuploader
+# Imageuploader 
+# (resides in master branch)
 
 This is a mini Authenticated web application based on Django (MTV) and HTML.
 
