@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1fcd43d-f915-448a-8b27-9f99fb245bcc" name="Default Changelist" comment="" />
+    <list default="true" id="a1fcd43d-f915-448a-8b27-9f99fb245bcc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/flight_inventory/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/flight_inventory/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flight_inventory/flight/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/flight_inventory/flight/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flight_inventory/flight/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/flight_inventory/flight/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flight_inventory/flight/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/flight_inventory/flight/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flight_inventory/flight_inventory/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/flight_inventory/flight_inventory/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flight_inventory/flight_inventory/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/flight_inventory/flight_inventory/urls.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="250v5kyQXfD45LKlDVDxXTDMQ70" />
   <component name="ProjectViewState">
